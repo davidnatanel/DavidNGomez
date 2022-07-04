@@ -5,7 +5,7 @@
 
 <hr>
 
-<h3 align="center">Conecta conmigo:</h3>
+<h3 align="center">Contacta conmigo:</h3>
 <p align="center">
 <a href="www.linkedin.com/in/david-natanael-gomez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/david-natanael-gomez" height="30" width="40" /></a>
 </p>
