@@ -40,5 +40,16 @@
   
   
   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryancpineda&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryancpineda" /></p>
+</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryancpineda&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="bryancpineda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryancpineda&theme=dark" alt="bryancpineda" /></p>
+
+</br>
+<h4 align="center">Visitor's :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{bryancpineda}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
+
   
   
