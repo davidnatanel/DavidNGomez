@@ -5,19 +5,13 @@
 
 <hr>
 
-<h3 align="center">Contacta conmigo:</h3>
-<p align="center">
-      
-      🔹Email: davidnatanaelgomez2@gmail.com  
-      🔹Linkedin: https://www.linkedin.com/in/david-natanael-gomez  
-      
-</p>
+
 
 
 
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
-      
+      🔹WP: +54 1526376593 o https://wa.me/5491126376593 <br>
       🔹Email: davidnatanaelgomez2@gmail.com <br>
       🔹Linkedin: https://www.linkedin.com/in/david-natanael-gomez <br>
        🔹Portfolio: https://jonathanhortman.vercel.app <br>
