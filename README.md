@@ -18,7 +18,7 @@
 </p>
 <hr>
 
-<hr>
+
 
 <P align="center">
 Javascript| TypeScript | Html | Css | React | Redux | Sequelize | Node JS | Express | Git | PostgreSQL  | MongoDB
