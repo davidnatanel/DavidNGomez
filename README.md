@@ -12,7 +12,7 @@
 <hr>
 
 
-
+Javascript| Html | Css | React | Redux | Sequalize | Node JS | Express | Git | PostgreSQL  | MongoDB
 
 <h3 align="center">Lenguajes y herramientas:</h3>
 <p align ="center"> 
