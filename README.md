@@ -8,8 +8,8 @@
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
       
-      🔹Email: davidnatanaelgomez2@gmail.com  <br>
-      🔹Linkedin: https://www.linkedin.com/in/david-natanael-gomez  <br>
+      🔹Email: davidnatanaelgomez2@gmail.com  
+      🔹Linkedin: https://www.linkedin.com/in/david-natanael-gomez  
       
 </p>
 
