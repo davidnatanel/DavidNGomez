@@ -14,7 +14,7 @@
       <br>
       🔹Email: davidnatanaelgomez2@gmail.com <br>
       🔹Linkedin: https://www.linkedin.com/in/david-natanael-gomez <br>
-       🔹Portfolio: https://jonathanhortman.vercel.app <br>
+       <br>
 </p>
 <hr>
 
