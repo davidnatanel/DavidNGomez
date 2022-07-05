@@ -12,7 +12,7 @@
 <hr>
 
 <P align="center">
-Javascript| TypeScript | Html | Css | React | Redux | Sequalize | Node JS | Express | Git | PostgreSQL  | MongoDB
+Javascript| TypeScript | Html | Css | React | Redux | Sequelize | Node JS | Express | Git | PostgreSQL  | MongoDB
 </P>
   
 <h3 align="center">Lenguajes y herramientas:</h3>
