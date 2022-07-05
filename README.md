@@ -11,9 +11,10 @@
 </p>
 <hr>
 
-
+<P align="center">
 Javascript| Html | Css | React | Redux | Sequalize | Node JS | Express | Git | PostgreSQL  | MongoDB
-
+</P>
+  
 <h3 align="center">Lenguajes y herramientas:</h3>
 <p align ="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
