@@ -9,7 +9,7 @@
 <p align="center">
       
       🔹Email: davidnatanaelgomez2@gmail.com  <br>
-      🔹Linkedin: www.linkedin.com/in/david-natanael-gomez  <br>
+      🔹Linkedin: https://www.linkedin.com/in/david-natanael-gomez  <br>
       
 </p>
 
