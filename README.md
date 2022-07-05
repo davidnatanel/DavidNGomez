@@ -13,6 +13,17 @@
       
 </p>
 
+
+
+<h3 align="center">Contacta conmigo:</h3>
+<p align="center">
+      🔹WP: +54 1526376593 o https://wa.me/5491126376593 <br>
+      🔹Email: Jonathanhortman@outlook.com <br>
+      🔹Linkedin: https://www.linkedin.com/in/jonathan-jesus-hortman-5ab210236 <br>
+      🔹Portfolio: https://jonathanhortman.vercel.app <br>
+</p>
+<hr>
+
 <hr>
 
 <P align="center">
